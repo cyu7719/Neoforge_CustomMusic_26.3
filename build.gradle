@@ -98,7 +98,7 @@ tasks.named('build') {
             commandLine 'cmd', '/c',
                 "git add -A && (git diff --cached --quiet || git commit -m \"${commitMsg}\") && git push"
         }
-        def output = result.standardOutput.asText.get() + result.errorOutput.asText.get()
+        def output = result.standardOutput.asText.get()
         if (result.result.get().exitValue == 0) {
             logger.lifecycle(output.isBlank() ? 'GitHub: nothing to push.' : output)
         } else {
