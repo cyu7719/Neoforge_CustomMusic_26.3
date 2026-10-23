@@ -85,3 +85,24 @@ tasks.withType(ProcessResources).configureEach {
 tasks.withType(JavaCompile).configureEach {
     options.encoding = 'UTF-8'
 }
+
+// After every successful build, commit any changes and push to GitHub.
+// Runs inside `build`'s doLast so it only fires when the build succeeded;
+// a failed push (offline, auth) is reported but does not fail the build.
+tasks.named('build') {
+    doLast {
+        def commitMsg = "build: ${mod_id}-${loader_name}-${minecraft_version}-${mod_version}"
+        def result = providers.exec {
+            workingDir rootDir
+            ignoreExitValue = true
+            commandLine 'cmd', '/c',
+                "git add -A && (git diff --cached --quiet || git commit -m \"${commitMsg}\") && git push"
+        }
+        def output = result.standardOutput.asText.get() + result.errorOutput.asText.get()
+        if (result.result.get().exitValue == 0) {
+            logger.lifecycle(output.isBlank() ? 'GitHub: nothing to push.' : output)
+        } else {
+            logger.warn("GitHub push skipped/failed:\n${output}")
+        }
+    }
+}
