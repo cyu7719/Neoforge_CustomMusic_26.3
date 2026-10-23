@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "custommusic:block/jukebox_album"
+    },
+    "facing=south": {
+      "model": "custommusic:block/jukebox_album",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "custommusic:block/jukebox_album",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "custommusic:block/jukebox_album",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "JJJ"
+  ],
+  "key": {
+    "J": "minecraft:jukebox"
+  },
+  "result": {
+    "id": "custommusic:portable_jukebox_album"
+  }
+}

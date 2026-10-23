@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "has_jukebox": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:jukebox"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_jukebox"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "custommusic:portable_jukebox_album"
+    ]
+  }
+}

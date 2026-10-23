@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "custommusic:item/music_disc_i_think_they_call_this_love"
+  }
+}

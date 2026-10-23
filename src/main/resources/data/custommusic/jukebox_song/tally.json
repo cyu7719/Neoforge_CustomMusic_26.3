@@ -1,0 +1,6 @@
+﻿{
+  "sound_event": "custommusic:music_disc_tally",
+  "description": "Tally - Twenty One Pilots",
+  "length_in_seconds": 6,
+  "comparator_output": 15
+}

@@ -1,0 +1,6 @@
+﻿{
+  "sound_event": "custommusic:music_disc_wait_for_you",
+  "description": "Wait for You - Elliot Yamin",
+  "length_in_seconds": 260,
+  "comparator_output": 15
+}

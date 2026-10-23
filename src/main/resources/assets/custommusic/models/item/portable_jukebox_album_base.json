@@ -1,0 +1,26 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "custommusic:block/custom_jukebox_bottom",
+		"down": "custommusic:block/custom_jukebox_bottom",
+		"up": "custommusic:block/custom_jukebox_top",
+		"north": "custommusic:block/portable_jukebox_side",
+		"east": "custommusic:block/portable_jukebox_side",
+		"south": "custommusic:block/portable_jukebox_side",
+		"west": "custommusic:block/portable_jukebox_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 8, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#down"}
+			}
+		}
+	]
+}

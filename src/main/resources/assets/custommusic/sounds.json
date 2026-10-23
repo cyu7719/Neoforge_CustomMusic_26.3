@@ -1,0 +1,1322 @@
+{
+  "music_disc_blazing_hearts": {
+    "sounds": [
+      {
+        "name": "custommusic:music/blazing_hearts",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_breathing_underwater": {
+    "sounds": [
+      {
+        "name": "custommusic:music/breathing_underwater",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_echoes": {
+    "sounds": [
+      {
+        "name": "custommusic:music/echoes",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_fractures": {
+    "sounds": [
+      {
+        "name": "custommusic:music/fractures",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_paradise": {
+    "sounds": [
+      {
+        "name": "custommusic:music/paradise",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_up": {
+    "sounds": [
+      {
+        "name": "custommusic:music/up",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_twenty": {
+    "sounds": [
+      {
+        "name": "custommusic:music/twenty",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_404_new_era": {
+    "sounds": [
+      {
+        "name": "custommusic:music/404_new_era",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_armageddon": {
+    "sounds": [
+      {
+        "name": "custommusic:music/armageddon",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_bang_bang": {
+    "sounds": [
+      {
+        "name": "custommusic:music/bang_bang",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_blue_valentine": {
+    "sounds": [
+      {
+        "name": "custommusic:music/blue_valentine",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_choom": {
+    "sounds": [
+      {
+        "name": "custommusic:music/choom",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_crazy": {
+    "sounds": [
+      {
+        "name": "custommusic:music/crazy",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_crazy_stupid_love": {
+    "sounds": [
+      {
+        "name": "custommusic:music/crazy_stupid_love",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_dun_dun": {
+    "sounds": [
+      {
+        "name": "custommusic:music/dun_dun",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_earthquake": {
+    "sounds": [
+      {
+        "name": "custommusic:music/earthquake",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_fearless": {
+    "sounds": [
+      {
+        "name": "custommusic:music/fearless",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_flower": {
+    "sounds": [
+      {
+        "name": "custommusic:music/flower",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_gods": {
+    "sounds": [
+      {
+        "name": "custommusic:music/gods",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_gods_menu": {
+    "sounds": [
+      {
+        "name": "custommusic:music/gods_menu",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_i_am": {
+    "sounds": [
+      {
+        "name": "custommusic:music/i_am",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_i_do_me": {
+    "sounds": [
+      {
+        "name": "custommusic:music/i_do_me",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_jump": {
+    "sounds": [
+      {
+        "name": "custommusic:music/jump",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_like_jennie": {
+    "sounds": [
+      {
+        "name": "custommusic:music/like_jennie",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_magnetic": {
+    "sounds": [
+      {
+        "name": "custommusic:music/magnetic",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_maniac": {
+    "sounds": [
+      {
+        "name": "custommusic:music/maniac",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_mantra": {
+    "sounds": [
+      {
+        "name": "custommusic:music/mantra",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_money": {
+    "sounds": [
+      {
+        "name": "custommusic:music/money",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_not_cute_anymore": {
+    "sounds": [
+      {
+        "name": "custommusic:music/not_cute_anymore",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_omg": {
+    "sounds": [
+      {
+        "name": "custommusic:music/omg",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_perfect_night": {
+    "sounds": [
+      {
+        "name": "custommusic:music/perfect_night",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_psycho": {
+    "sounds": [
+      {
+        "name": "custommusic:music/psycho",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_rebel_heart": {
+    "sounds": [
+      {
+        "name": "custommusic:music/rebel_heart",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_rockstar": {
+    "sounds": [
+      {
+        "name": "custommusic:music/rockstar",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_see_that": {
+    "sounds": [
+      {
+        "name": "custommusic:music/see_that",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_sheesh": {
+    "sounds": [
+      {
+        "name": "custommusic:music/sheesh",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_solo": {
+    "sounds": [
+      {
+        "name": "custommusic:music/solo",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_spaghetti": {
+    "sounds": [
+      {
+        "name": "custommusic:music/spaghetti",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_super_shy": {
+    "sounds": [
+      {
+        "name": "custommusic:music/super_shy",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_supernova": {
+    "sounds": [
+      {
+        "name": "custommusic:music/supernova",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_wannabe": {
+    "sounds": [
+      {
+        "name": "custommusic:music/wannabe",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_what_is_love": {
+    "sounds": [
+      {
+        "name": "custommusic:music/what_is_love",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_whiplash": {
+    "sounds": [
+      {
+        "name": "custommusic:music/whiplash",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_we_pray": {
+    "sounds": [
+      {
+        "name": "custommusic:music/we_pray",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_girls_will_be_girls": {
+    "sounds": [
+      {
+        "name": "custommusic:music/girls_will_be_girls",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_bigger_badder_better": {
+    "sounds": [
+      {
+        "name": "custommusic:music/bigger_badder_better",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_cupid": {
+    "sounds": [
+      {
+        "name": "custommusic:music/cupid",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_good_stuff": {
+    "sounds": [
+      {
+        "name": "custommusic:music/good_stuff",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_gravity": {
+    "sounds": [
+      {
+        "name": "custommusic:music/gravity",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_hands_up": {
+    "sounds": [
+      {
+        "name": "custommusic:music/hands_up",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_new_new": {
+    "sounds": [
+      {
+        "name": "custommusic:music/new_new",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_rude": {
+    "sounds": [
+      {
+        "name": "custommusic:music/rude",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_up_karina_solo": {
+    "sounds": [
+      {
+        "name": "custommusic:music/up_karina_solo",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_way_back_home": {
+    "sounds": [
+      {
+        "name": "custommusic:music/way_back_home",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_zoom": {
+    "sounds": [
+      {
+        "name": "custommusic:music/zoom",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_ddi_ro_ri": {
+    "sounds": [
+      {
+        "name": "custommusic:music/ddi_ro_ri",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_in_my_hands": {
+    "sounds": [
+      {
+        "name": "custommusic:music/in_my_hands",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_its_me": {
+    "sounds": [
+      {
+        "name": "custommusic:music/its_me",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_metronome": {
+    "sounds": [
+      {
+        "name": "custommusic:music/metronome",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_hands_up_cb": {
+    "sounds": [
+      {
+        "name": "custommusic:music/hands_up_cb",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_fire": {
+    "sounds": [
+      {
+        "name": "custommusic:music/fire",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_all_night": {
+    "sounds": [
+      {
+        "name": "custommusic:music/all_night",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_butterflies": {
+    "sounds": [
+      {
+        "name": "custommusic:music/butterflies",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_good_girl": {
+    "sounds": [
+      {
+        "name": "custommusic:music/good_girl",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_heavy_serenade": {
+    "sounds": [
+      {
+        "name": "custommusic:music/heavy_serenade",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_lemonade": {
+    "sounds": [
+      {
+        "name": "custommusic:music/lemonade",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_love_attack": {
+    "sounds": [
+      {
+        "name": "custommusic:music/love_attack",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_nine": {
+    "sounds": [
+      {
+        "name": "custommusic:music/nine",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_baby_blue": {
+    "sounds": [
+      {
+        "name": "custommusic:music/baby_blue",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_drip_too_hard": {
+    "sounds": [
+      {
+        "name": "custommusic:music/drip_too_hard",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_el_dorado": {
+    "sounds": [
+      {
+        "name": "custommusic:music/el_dorado",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_greece": {
+    "sounds": [
+      {
+        "name": "custommusic:music/greece",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_grenade": {
+    "sounds": [
+      {
+        "name": "custommusic:music/grenade",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_hold_on_were_going_home": {
+    "sounds": [
+      {
+        "name": "custommusic:music/hold_on_were_going_home",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_hot": {
+    "sounds": [
+      {
+        "name": "custommusic:music/hot",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_leave_the_door_open": {
+    "sounds": [
+      {
+        "name": "custommusic:music/leave_the_door_open",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_meet_me_halfway": {
+    "sounds": [
+      {
+        "name": "custommusic:music/meet_me_halfway",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_never_change": {
+    "sounds": [
+      {
+        "name": "custommusic:music/never_change",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_on_your_own": {
+    "sounds": [
+      {
+        "name": "custommusic:music/on_your_own",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_owa_owa": {
+    "sounds": [
+      {
+        "name": "custommusic:music/owa_owa",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_rather_be": {
+    "sounds": [
+      {
+        "name": "custommusic:music/rather_be",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_someone_like_you": {
+    "sounds": [
+      {
+        "name": "custommusic:music/someone_like_you",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_the_beach": {
+    "sounds": [
+      {
+        "name": "custommusic:music/the_beach",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_talking_to_the_moon": {
+    "sounds": [
+      {
+        "name": "custommusic:music/talking_to_the_moon",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_tennessee_whiskey": {
+    "sounds": [
+      {
+        "name": "custommusic:music/tennessee_whiskey",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_time_flies": {
+    "sounds": [
+      {
+        "name": "custommusic:music/time_flies",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_wait_for_u": {
+    "sounds": [
+      {
+        "name": "custommusic:music/wait_for_u",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_all_i_ask_of_you": {
+    "sounds": [
+      {
+        "name": "custommusic:music/all_i_ask_of_you",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_amazed": {
+    "sounds": [
+      {
+        "name": "custommusic:music/amazed",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_begin_again": {
+    "sounds": [
+      {
+        "name": "custommusic:music/begin_again",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_cant_help_falling_in_love": {
+    "sounds": [
+      {
+        "name": "custommusic:music/cant_help_falling_in_love",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_crystal_snow": {
+    "sounds": [
+      {
+        "name": "custommusic:music/crystal_snow",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_fall_for_you": {
+    "sounds": [
+      {
+        "name": "custommusic:music/fall_for_you",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_i_can_love_you_like_that": {
+    "sounds": [
+      {
+        "name": "custommusic:music/i_can_love_you_like_that",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_i_do_cherish_you": {
+    "sounds": [
+      {
+        "name": "custommusic:music/i_do_cherish_you",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_i_have_nothing": {
+    "sounds": [
+      {
+        "name": "custommusic:music/i_have_nothing",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_i_think_they_call_this_love": {
+    "sounds": [
+      {
+        "name": "custommusic:music/i_think_they_call_this_love",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_i_wont_give_up": {
+    "sounds": [
+      {
+        "name": "custommusic:music/i_wont_give_up",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_ill_be": {
+    "sounds": [
+      {
+        "name": "custommusic:music/ill_be",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_keep_holding_on": {
+    "sounds": [
+      {
+        "name": "custommusic:music/keep_holding_on",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_lucky": {
+    "sounds": [
+      {
+        "name": "custommusic:music/lucky",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_serendipity": {
+    "sounds": [
+      {
+        "name": "custommusic:music/serendipity",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_smile": {
+    "sounds": [
+      {
+        "name": "custommusic:music/smile",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_thank_god": {
+    "sounds": [
+      {
+        "name": "custommusic:music/thank_god",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_the_reason": {
+    "sounds": [
+      {
+        "name": "custommusic:music/the_reason",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_wait_for_you": {
+    "sounds": [
+      {
+        "name": "custommusic:music/wait_for_you",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_wanted": {
+    "sounds": [
+      {
+        "name": "custommusic:music/wanted",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_all_around_cowboy": {
+    "sounds": [
+      {
+        "name": "custommusic:music/all_around_cowboy",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_america": {
+    "sounds": [
+      {
+        "name": "custommusic:music/america",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_drum_show": {
+    "sounds": [
+      {
+        "name": "custommusic:music/drum_show",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_garbage": {
+    "sounds": [
+      {
+        "name": "custommusic:music/garbage",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_gettin_tired_again": {
+    "sounds": [
+      {
+        "name": "custommusic:music/gettin_tired_again",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_im_just_a_clown": {
+    "sounds": [
+      {
+        "name": "custommusic:music/im_just_a_clown",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_kid_again": {
+    "sounds": [
+      {
+        "name": "custommusic:music/kid_again",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_lead_the_way": {
+    "sounds": [
+      {
+        "name": "custommusic:music/lead_the_way",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_modern_times": {
+    "sounds": [
+      {
+        "name": "custommusic:music/modern_times",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_oldies_station": {
+    "sounds": [
+      {
+        "name": "custommusic:music/oldies_station",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_one_way": {
+    "sounds": [
+      {
+        "name": "custommusic:music/one_way",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_robot_voices": {
+    "sounds": [
+      {
+        "name": "custommusic:music/robot_voices",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_routines_in_the_night": {
+    "sounds": [
+      {
+        "name": "custommusic:music/routines_in_the_night",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_sweet_disposition": {
+    "sounds": [
+      {
+        "name": "custommusic:music/sweet_disposition",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_tally": {
+    "sounds": [
+      {
+        "name": "custommusic:music/tally",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_travelin_blues": {
+    "sounds": [
+      {
+        "name": "custommusic:music/travelin_blues",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_vignette": {
+    "sounds": [
+      {
+        "name": "custommusic:music/vignette",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_what_you_know": {
+    "sounds": [
+      {
+        "name": "custommusic:music/what_you_know",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_baby": {
+    "sounds": [
+      {
+        "name": "custommusic:music/baby",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_beauty_and_a_beat": {
+    "sounds": [
+      {
+        "name": "custommusic:music/beauty_and_a_beat",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_enemies": {
+    "sounds": [
+      {
+        "name": "custommusic:music/enemies",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_hero": {
+    "sounds": [
+      {
+        "name": "custommusic:music/hero",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_it_will_rain": {
+    "sounds": [
+      {
+        "name": "custommusic:music/it_will_rain",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_look_at_the_sky": {
+    "sounds": [
+      {
+        "name": "custommusic:music/look_at_the_sky",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_love": {
+    "sounds": [
+      {
+        "name": "custommusic:music/love",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_love_is_gone": {
+    "sounds": [
+      {
+        "name": "custommusic:music/love_is_gone",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_malibu_nights": {
+    "sounds": [
+      {
+        "name": "custommusic:music/malibu_nights",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_mommae": {
+    "sounds": [
+      {
+        "name": "custommusic:music/mommae",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_oasis": {
+    "sounds": [
+      {
+        "name": "custommusic:music/oasis",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_summer": {
+    "sounds": [
+      {
+        "name": "custommusic:music/summer",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_take_you_there": {
+    "sounds": [
+      {
+        "name": "custommusic:music/take_you_there",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_that_should_be_me": {
+    "sounds": [
+      {
+        "name": "custommusic:music/that_should_be_me",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_the_girls": {
+    "sounds": [
+      {
+        "name": "custommusic:music/the_girls",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_three_fifteen": {
+    "sounds": [
+      {
+        "name": "custommusic:music/three_fifteen",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_versace_on_the_floor": {
+    "sounds": [
+      {
+        "name": "custommusic:music/versace_on_the_floor",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_wicked": {
+    "sounds": [
+      {
+        "name": "custommusic:music/wicked",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_yacht": {
+    "sounds": [
+      {
+        "name": "custommusic:music/yacht",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_are_you_bored_yet": {
+    "sounds": [
+      {
+        "name": "custommusic:music/are_you_bored_yet",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_bad_dream": {
+    "sounds": [
+      {
+        "name": "custommusic:music/bad_dream",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_calling_after_me": {
+    "sounds": [
+      {
+        "name": "custommusic:music/calling_after_me",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_call_your_mom": {
+    "sounds": [
+      {
+        "name": "custommusic:music/call_your_mom",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_como_la_flor": {
+    "sounds": [
+      {
+        "name": "custommusic:music/como_la_flor",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_evening_glow": {
+    "sounds": [
+      {
+        "name": "custommusic:music/evening_glow",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_golden": {
+    "sounds": [
+      {
+        "name": "custommusic:music/golden",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_no_one_party_anthem": {
+    "sounds": [
+      {
+        "name": "custommusic:music/no_one_party_anthem",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_remember_when": {
+    "sounds": [
+      {
+        "name": "custommusic:music/remember_when",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_wait_and_see": {
+    "sounds": [
+      {
+        "name": "custommusic:music/wait_and_see",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_you": {
+    "sounds": [
+      {
+        "name": "custommusic:music/you",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_drop_dead": {
+    "sounds": [
+      {
+        "name": "custommusic:music/drop_dead",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_girls": {
+    "sounds": [
+      {
+        "name": "custommusic:music/girls",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_work": {
+    "sounds": [
+      {
+        "name": "custommusic:music/work",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_redred": {
+    "sounds": [
+      {
+        "name": "custommusic:music/redred",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_unique": {
+    "sounds": [
+      {
+        "name": "custommusic:music/unique",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_xo": {
+    "sounds": [
+      {
+        "name": "custommusic:music/xo",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_sawadika": {
+    "sounds": [
+      {
+        "name": "custommusic:music/sawadika",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_til_we_die": {
+    "sounds": [
+      {
+        "name": "custommusic:music/til_we_die",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_killin_it": {
+    "sounds": [
+      {
+        "name": "custommusic:music/killin_it",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_dancing_in_the_starlit_night": {
+    "sounds": [
+      {
+        "name": "custommusic:music/dancing_in_the_starlit_night",
+        "stream": true
+      }
+    ]
+  }
+}

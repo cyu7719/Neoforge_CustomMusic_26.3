@@ -1,0 +1,39 @@
+# Gradle
+.gradle/
+build/
+out/
+bin/
+
+# Run directories (world saves, logs, configs)
+runs/
+
+# IDE
+.idea/
+.vscode/
+.metals/
+.snapshots/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.metadata/
+eclipse/
+*.launch
+
+# Extracted/decompiled sources
+temp_neoforge_src/
+.tmp_*/
+
+# Crash/error dumps
+hs_err_pid*.log
+replay_pid*.log
+
+# Generated diagnostics
+block_javap.txt
+classpath.txt
+
+# OS
+Thumbs.db
+.DS_Store

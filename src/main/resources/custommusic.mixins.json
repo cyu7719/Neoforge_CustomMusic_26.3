@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.custommusic.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "custommusic.refmap.json",
+  "mixins": [
+    "JukeboxBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

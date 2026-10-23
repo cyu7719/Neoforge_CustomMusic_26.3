@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "custommusic:portable_jukebox",
+    "base": "custommusic:item/portable_jukebox_album_base"
+  }
+}
